@@ -15,4 +15,3 @@ for entry in entries :
     if expected in entries_set and entry != expected :
         print(entry, expected, entry * expected)
         break
-print('The work is succeeded.')

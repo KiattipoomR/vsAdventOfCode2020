@@ -20,4 +20,3 @@ for first_idx, first_entry in enumerate(entries) :
                 answer_found = True
                 break
         else : continue
-print("Success !")
